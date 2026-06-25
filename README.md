@@ -1,12 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F8D7DA,50:BDE0FE,100:CDEAC0&text=Welcome!&fontSize=70&fontColor=5A4A42&animation=fadeIn&fontAlignY=35"/>
+<div align="center">
 
-<h1 align="center">👋 Welcome to My GitHub</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F8D7DA,50:BDE0FE,100:CDEAC0&text=Welcome%20to%20My%20GitHub&fontSize=52&fontColor=5A4A42&animation=twinkling&fontAlignY=38"/>
 
-<p align="center">
-Software Engineer • Full Stack Developer • AI Enthusiast
-</p>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=7B8FA1&center=true&vCenter=true&width=900&lines=💻+Software+Engineer+in+the+Making;🚀+Full+Stack+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🧠+Building+with+Large+Language+Models;☁️+Cloud+Computing+Explorer;📱+App+Developer;🎨+Creative+Web+Designer;🌸+Turning+Ideas+into+Reality"/>
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7B8FA1&center=true&vCenter=true&width=900&lines=✨+Full+Stack+Developer;🤖+Artificial+Intelligence+%26+Machine+Learning;☁️+Cloud+Computing+Enthusiast;🧠+Large+Language+Model+(LLM)+Explorer;📱+App+Developer;🎨+Web+Designer;💻+Building+Scalable+Software"/>
 
