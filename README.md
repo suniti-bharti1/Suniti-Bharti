@@ -1,9 +1,5 @@
 <div align="center">
 
-<div align="center">
-
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F8D7DA,50:BDE0FE,100:CDEAC0&text=Welcome%20to%20My%20GitHub&fontSize=52&fontColor=5A4A42&animation=twinkling&fontAlignY=38"/>
 
 <h1>👋 Welcome to My GitHub</h1>
